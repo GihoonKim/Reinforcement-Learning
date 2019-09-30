@@ -5,3 +5,4 @@
  - By Reccurent Network, Agent can predict Ball moving and move to the direction to block the ball
  
  ### Structure
+- Image -> CNN -> RNN -> Q value
